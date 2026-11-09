@@ -1,7 +1,10 @@
 
 public class Main{
     public static void main(String[] args){
-        System.out.printf("Salom dunyo");
+        System.out.println("Salom dunyo");
+        System.out.println("talabalar...");
+        System.out.println("imtixon");
+
 
     }
 }
